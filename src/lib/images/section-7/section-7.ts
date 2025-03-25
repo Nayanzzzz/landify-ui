@@ -1,0 +1,1 @@
+export {default as FooterLogo} from "../../../assets/images/section-7/logo-footer.png"

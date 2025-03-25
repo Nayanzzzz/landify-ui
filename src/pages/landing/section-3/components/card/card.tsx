@@ -1,10 +1,12 @@
+
 import { IFeatureData } from "../../data/data"
 
 
-const Card = ({title , img} : IFeatureData) => {
-  return (
-    <div className="  flex flex-col gap-3">
 
+const Card = ({title , img } : IFeatureData) => {
+  
+  return (
+    <div  className="  flex flex-col gap-3 cursor-pointer">
 
         {/* div for img  */}
         <div className="flex items-center justify-center">
