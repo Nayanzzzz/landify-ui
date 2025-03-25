@@ -1,0 +1,6 @@
+export {default as Feature1} from "../../../assets/images/section-3/features/feature-icon-1.png"
+export {default as Feature2} from "../../../assets/images/section-3/features/feature-icon-2.png"
+export {default as Feature3} from "../../../assets/images/section-3/features/feature-icon-3.png"
+export {default as Feature4} from "../../../assets/images/section-3/features/feature-icon-4.png"
+export {default as Feature5} from "../../../assets/images/section-3/features/feature-icon-5.png"
+export {default as Feature6} from "../../../assets/images/section-3/features/feature-icon-6.png"

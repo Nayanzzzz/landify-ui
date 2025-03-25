@@ -1,0 +1,6 @@
+export {default as Logo1} from "../../../assets/images/section-2/company-list-logo/logo-1.png"
+export {default as Logo2} from "../../../assets/images/section-2/company-list-logo/logo-2.png"
+export {default as Logo3} from "../../../assets/images/section-2/company-list-logo/logo-3.png"
+export {default as Logo4} from "../../../assets/images/section-2/company-list-logo/logo-4.png"
+export {default as Logo5} from "../../../assets/images/section-2/company-list-logo/logo-5.png"
+export {default as Logo6} from "../../../assets/images/section-2/company-list-logo/logo-6.png"
